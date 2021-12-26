@@ -1,7 +1,7 @@
 ### Hey everyone  👋
 
 
-- 🔭 I’m  junior font-end developer
+- 🔭 I’m  junior front-end developer
 - 🌱 I’m currently learning Typescript
 
 
