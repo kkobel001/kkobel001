@@ -3,7 +3,7 @@
 
 - 🔭 I’m  junior front-end developer
 - 🌱 I’m currently learning Typescript and SQL
-- future? Full-stack
+- 🔭 future? Full-stack
 
 
 <div align="center">
