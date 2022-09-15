@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m  junior front-end developer
-- 🌱 I’m currently learning Typescript and SQL
+- 🌱 I’m currently learning Typescript, SQL and Node
 - 🔭 future? Full-stack
 
 
