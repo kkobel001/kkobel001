@@ -1,8 +1,7 @@
 ### Hey everyone  👋
 
 
-- 🔭 I’m  junior front-end developer
-- 🌱 I’m currently learning Typescript, SQL and Node
+
 
 
 
